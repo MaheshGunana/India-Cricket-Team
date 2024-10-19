@@ -1,0 +1,27 @@
+header{
+    color: #fff;
+    padding: 8px;
+    margin: 8px;
+    text-align: center;
+}
+header #title{
+    font-family:serif;
+    /* font-size: 32px; */
+    font-weight: bold;
+    text-shadow: 5px 5px 7px black;
+}
+.card-header h4{
+    color: red; 
+    font-family:Georgia, 'Times New Roman', Times, serif;  
+}
+main{
+    background-color: black;
+    margin: 8px;
+}
+marquee p{
+    color: #fff;
+    padding-top: 13px;
+    font-size: 16px;
+    font-family: cursive;
+}
+#rank{color: blue; font-weight: bold;}
